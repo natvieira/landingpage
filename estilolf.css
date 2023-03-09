@@ -32,3 +32,19 @@ nav#menu a{
     text-decoration: none;
     
 }
+
+div.fotos{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    object-fit: contain;
+}
+
+img.port{
+   height: 300px;
+   width: 300px;
+   object-fit: cover;
+   display:inline-flexbox
+}
+
+
